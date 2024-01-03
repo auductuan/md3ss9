@@ -1,0 +1,38 @@
+.lexaugai{
+ border-style:groove;
+}
+.tong{
+    background-image: url("bao-ngoc-nhan-hoai-lam-truong-thanh-sau-khi-ly-hon-nam-ca-si-xoa-loi-xin-loi-gui-vo-photo-1-1593101149761103187641-1593104418-320-width620height930.jpg");
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    background-position: 0px ;
+    background-repeat: no-repeat;  
+    margin: auto ;
+    border: 3px #000000;
+
+}
+.lekhongxink{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    top: 350px;
+}
+.lekhongxink i{
+    padding-left: 16px;
+    padding-top: 16px;
+    color: orange;
+}
+.border{
+    background-color: rgb(172, 185, 196);
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    color: white;
+    position: absolute;
+}
+
+h1 {
+    margin-left: 40px;
+}

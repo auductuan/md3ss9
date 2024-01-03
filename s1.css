@@ -1,0 +1,26 @@
+.demo-bg{
+    width: 500px;
+    height: 308px;
+    background-color: black;
+    color: blueviolet;
+    font-size: medium;
+    background-image: url("anh-chill-buon-yodyvn2.webp");
+    background-size: cover ;
+    background-position: 0cm;
+    background-repeat: no-repeat;
+}
+.demo-pseudo {
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.demo-pseudo:hover {
+    background-color: blue;
+    font-size: 10px;    
+
+}\
